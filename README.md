@@ -4,7 +4,7 @@ A practical introduction to EEG experiments and data analysis with Python, Jupyt
 
 ## Getting Started
 
-### Analysis Environment
+### Data Analysis Environment
 In this course, we'll use Jupyter Notebooks as a convenient way to run Python code. The main toolkit in Python we use for EEG data analysis is MNE. The following section provides a quick and easy method to get set up. For advanced programmers I recommend managing local environments using `uv`.
 
 ### Installing Jupyter on you own computer
