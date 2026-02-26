@@ -1,7 +1,6 @@
-# PS-NE-329
-PS/NE329 Experimental Psychology: Cognitive Neuroscience -- A practical introduction to EEG experiments and data analysis
+# PS/NE329 Experimental Psychology: Cognitive Neuroscience
 
-This course teaches EEG Data Analysis with Python, Jupyter, and MNE
+A practical introduction to EEG experiments and data analysis with Python, Jupyter, and MNE
 
 ## Getting Started
 
