@@ -13,7 +13,7 @@ The simplest way of using Jupyter is to install and run it as a desktop applicat
 
 #### Setting up Python
 Jupyter needs Python to execute your code. The first time you start the dekstop app, it will ask you to download it. Simply click the prompt at the bottom of the window:
-![[attachments/screenshot.png]]
+![](attachments/screenshot.png)
 
 The installation takes a minute. When it is finished, you can click on the "Open" icon and navigate to the folder for your project. Next you will see the option to Launch different environments - select 'Notebook' > 'Python 3 (ipykernel)' to create a new notebook.
 
