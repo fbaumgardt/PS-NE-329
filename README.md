@@ -2,7 +2,7 @@
 
 A practical introduction to EEG experiments and data analysis with Python, Jupyter, and MNE
 
-![](attachments/analysis_map.png)
+<img src="attachments/analysis_map.png" alt="drawing" width="50%"/>
 
 ## Getting Started
 
