@@ -2,6 +2,8 @@
 
 A practical introduction to EEG experiments and data analysis with Python, Jupyter, and MNE
 
+![](attachments/analysis_map.png)
+
 ## Getting Started
 
 ### Data Analysis Environment
